@@ -1,0 +1,26 @@
+.profile-image{
+    border-radius: 50%;
+    height: 300px;
+    width: 300px;
+}
+
+/* ------- Search Section ------- */
+
+#search-section {
+    margin-top: 50px;
+    margin-bottom: 100px;
+}
+
+#search-section .search-area {
+    border-radius: 80px;
+    padding: 15px 50px;
+}
+
+#search-section .search-area button.btn-theme {
+    border-radius: 30px;
+    padding: 12px 40px;
+}
+
+.search-items{
+    gap: 20px;
+}
